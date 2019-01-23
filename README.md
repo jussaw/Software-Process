@@ -1,3 +1,8 @@
+# This project is finished.
+
+# Below is what was written from my professor, Dr. Umphress.
+
+
 # Fall2018SoftwareProcess
 Fall 2018 Software Process assignments ... rubic's cube
 
